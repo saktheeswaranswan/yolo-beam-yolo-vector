@@ -3,6 +3,14 @@
 
 person datset youtube
 
+https://universe.roboflow.com/me-kqege/person-va3hs
+
+https://universe.roboflow.com/me-kqege/person-va3hs
+
+https://universe.roboflow.com/esprit-7bvvy/person-detection-uxbjn
+
+https://universe.roboflow.com/esprit-7bvvy/person-detection-uxbjn
+
 https://universe.roboflow.com/fyp-gybkt/human-counter
 
 https://universe.roboflow.com/fyp-gybkt/human-counter
